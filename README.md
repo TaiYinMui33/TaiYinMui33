@@ -32,9 +32,9 @@ Strategic and results-driven **AI Engineer** with over 3 years of professional e
 *   **viAct (3+ Years):** Instrumental in building Computer Vision modules for construction safety and productivity monitoring.
 *   **Certifications:** 
     *   *DeepLearning.AI:* Neural Networks and Deep Learning Specialization.
-    *   *Coursera:* Professional Milestoness Certificate.
+    *   *Coursera:* Professional Machine Learning Certificate.
 
-----
+---
 
 ## 🔬 Research Interests
 *   **Geometric Deep Learning:** Applying ML to complex spatial and geo-energy datasets.
@@ -49,10 +49,11 @@ Strategic and results-driven **AI Engineer** with over 3 years of professional e
 
 ---
 
-## �k Let's Connect
-*   📍 **Current Base:** London, Uk / Hong Kong SAR
-*   🥭 **Collaboration:** I am always open to discussing Deep Learning research, Computer Vision challenges, and NLP innovation.
-*   👯 **Contact:** [Your Email/LinkedIn Link Here]
+## 📫 Let's Connect
+*   📍 **Current Base:** London, UK / Hong Kong SAR
+*   🤝 **Collaboration:** I am always open to discussing Deep Learning research, Computer Vision challenges, and NLP innovation.
+*   🔗 **LinkedIn:** [Tai Yin Mui](https://www.linkedin.com/in/tai-yin-mui-302599195/)
+*   📧 **Contact:** [harigadang31@gmail.com]
 
 ---
 *“Building the future through intelligent data perception.”*
