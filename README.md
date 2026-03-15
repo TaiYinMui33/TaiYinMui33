@@ -1,23 +1,58 @@
-# Hi there, I'm Tai Yin Mui 👋🧠
+# 🚀 Tai Yin Mui | AI & NLP Engineer
+### MSc Candidate @ Imperial College London | Computer Vision Specialist | Deep Learning Researcher
 
-I am an **AI Engineer and Data Scientist** based in Hong Kong/London. I have a strong foundation in building robust deep learning models, with over 3 years of professional experience specializing in Computer Vision. I am currently expanding my expertise at **Imperial College London**, pursuing an MSc in Geo-energy with Machine Learning and Data Science.
+---
 
-### 🚀 What I Do
-- **Computer Vision:** Architecting and training advanced deep learning models for image processing, object detection, and visual analytics (gained through 3+ years at viAct).
-- **NLP & Prompt Engineering:** Exploring and implementing Large Language Models and Prompt Engineering methodologies to solve complex natural language tasks.
-- **Data Science:** Extracting actionable insights from complex datasets and building predictive machine learning pipelines.
-- **Academic Research:** Currently focusing on the intersection of Machine Learning, Data Science, and Geo-energy systems at Imperial College London.
+## 👨‍💻 Professional Summary
+Strategic and results-driven **AI Engineer** with over 3 years of professional experience in developing production-grade **Computer Vision** solutions. Currently pursuing an **MSc in Geo-energy with Machine Learning and Data Science at Imperial College London**, I am bridging the gap between advanced deep learning research and industrial applications. My expertise lies in architecting robust neural networks, optimizing NLP pipelines, and delivering scalable data-driven insights.
 
-### 🎓 Background & Certifications
-- **Education:** MSc in Geo-energy with ML & Data Science @ **Imperial College London** | B.Eng in Electronic Engineering @ **City University of Hong Kong**.
-- **Certifications:** DeepLearning.AI Neural Networks and Deep Learning | Coursera Machine Learning.
-- **Early Tech:** Background in Electronic Engineering, including active involvement in Underwater Robotics.
+---
 
-### 🛠️ Tech Stack & Skills
-- **AI / Deep Learning:** PyTorch, Neural Networks, Computer Vision, Prompt Engineering, NLP
-- **Programming & Data:** Python, Java, Database Systems
-- **Languages:** Cantonese (Native), English (Professional)
+## 🛠️ Technical Ecosystem
 
-### 📫 Let's Connect
-- **Location:** London, UK / Hong Kong SAR
-- Always open to collaborating on Deep Learning research, Computer Vision applications, and advanced NLP projects!
+### **Core AI & Deep Learning**
+*   **Computer Vision:** Object Detection (YOLO, Faster R-CNN), Image Segmentation, Visual Analytics, OCR.
+*   **NLP & LLMs:** Prompt Engineering, Transformer Architectures, RAG (Retrieval-Augmented Generation), Fine-tuning.
+*   **Frameworks:** PyTorch, TensorFlow, Scikit-learn, Hugging Face.
+
+### **Programming & Data Engineering**
+*   **Languages:** Python (Advanced), Java, SQL, C++.
+*   **Data Science:** Pandas, NumPy, Matplotlib, Predictive Modeling, Machine Learning Pipelines.
+*   **Databases:** PostgreSQL, MongoDB, Pinecone (Vector DB).
+
+### **Software Engineering & Infrastructure**
+*   **DevOps:** Git, Docker, CI/CD, Linux Server Management.
+*   **Cloud:** AWS/Azure (AI Services integration).
+
+---
+
+## 🎓 Academic & Professional Milestones
+*   **Imperial College London:** MSc Geo-energy with ML & Data Science (Current) — *Focusing on high-dimensional data and predictive modeling.*
+*   **City University of Hong Kong:** B.Eng in Electronic Engineering — *Specialization in Robotics and Hardware-Software integration.*
+*   **viAct (3+ Years):** Instrumental in building Computer Vision modules for construction safety and productivity monitoring.
+*   **Certifications:** 
+    *   *DeepLearning.AI:* Neural Networks and Deep Learning Specialization.
+    *   *Coursera:* Professional Milestoness Certificate.
+
+----
+
+## 🔬 Research Interests
+*   **Geometric Deep Learning:** Applying ML to complex spatial and geo-energy datasets.
+*   **Autonomous Systems:** Enhancing visual perception for underwater and industrial robotics.
+*   **LLM Orchestration:** Developing agentic workflows to automate complex research tasks.
+
+---
+
+## 📊 GitHub Stats
+![Tai Yin Mui's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanDertiejiqzh&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanDertiejiqzh&layout=compact&theme=transparent)
+
+---
+
+## �k Let's Connect
+*   📍 **Current Base:** London, Uk / Hong Kong SAR
+*   🥭 **Collaboration:** I am always open to discussing Deep Learning research, Computer Vision challenges, and NLP innovation.
+*   👯 **Contact:** [Your Email/LinkedIn Link Here]
+
+---
+*“Building the future through intelligent data perception.”*
